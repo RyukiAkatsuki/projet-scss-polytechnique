@@ -15,3 +15,6 @@ http://paris1900.lartnouveau.com/paris05/ecoles/ecole_polytechnique.htm
 https://www.spitchconsulting.com/formation-en-presentations/ecole-polytechnique-x-paris/
 https://www.challenges.fr/emploi/formation/exclusif-l-ecole-polytechnique-va-changer-de-president_569700
 https://www.polytechnique.edu/actualites/lx-au-defile-du-14-juillet-les-eleves-polytechniciennes-lhonneur
+<br>
+Autre image dans gallerie:
+https://www.flickr.com/photos/117994717@N06/33194433718
