@@ -1,0 +1,19 @@
+.bgfooter {
+    background: #545454;
+    .official {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        a {
+            text-decoration: none;
+            font-size: 50px;
+        }
+    }
+    .copyright {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        background: #363636;
+    }
+}
