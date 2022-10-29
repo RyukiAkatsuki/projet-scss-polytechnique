@@ -16,7 +16,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     @include xl {
-        width: 819px;
+        width: 745px;
     }
 }
 
@@ -66,7 +66,10 @@
         color: #fff;
     }
     @include xl {
-        flex-direction: column-reverse  ;
+        flex-direction: column-reverse;
+        .etudiant {
+            width: 700px;
+        }
     }
 }
 
@@ -84,5 +87,114 @@
     }
     @include xl {
         flex-direction: column;
+        .military {
+            width: 700px;
+        }
+    }
+}
+
+// History Part
+.firstHist {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    .firsthistimg {
+        padding-top: 50px;
+        width: 1000px;
+    }
+    p {
+        padding-left: 150px;
+        color: #fff;
+    }
+    @include xl {
+        flex-direction: column-reverse;
+        .firsthistimg {
+            width: 700px;
+        }
+    }
+}
+
+.secondHist {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    .secondhistimg {
+        padding-top: 50px;
+        width: 1000px;
+    }
+    p {
+        padding-left: 150px;
+        color: #fff;
+    }
+    @include xl {
+        flex-direction: column;
+        .secondhistimg {
+            width: 700px;
+        }
+    }
+}
+
+.thirdHist {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    .thirdhistimg {
+        padding-top: 50px;
+        width: 1000px;
+    }
+    p {
+        padding-left: 150px;
+        color: #fff;
+    }
+    @include xl {
+        flex-direction: column-reverse;
+        .thirdhistimg {
+            width: 700px;
+        }
+    }
+}
+
+.fourthHist {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    .fourthhistimg {
+        padding-top: 50px;
+        width: 1000px;
+    }
+    p {
+        padding-left: 150px;
+        color: #fff;
+    }
+    @include xl {
+        flex-direction: column;
+        .fourthhistimg {
+            width: 700px;
+        }
+    }
+}
+
+.fifthHist {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    .fifthhistimg {
+        padding-top: 50px;
+        width: 1000px;
+    }
+    p {
+        padding-left: 150px;
+        color: #fff;
+    }
+    @include xl {
+        flex-direction: column-reverse;
+        .fifthhistimg {
+            width: 700px;
+        }
     }
 }
